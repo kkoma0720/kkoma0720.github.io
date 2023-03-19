@@ -34,6 +34,8 @@ ___
 
  [자기소개](https://kkoma0720.github.io/first/)
 
+ 팀프로젝트 로비 화면
+ 
  ![팀 프로젝트 로비 화면](https://user-images.githubusercontent.com/56966606/206246646-1c188317-3bf2-45a9-894f-b12dda6aab2d.gif)
 
 ___
