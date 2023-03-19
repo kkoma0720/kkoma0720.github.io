@@ -1,3 +1,8 @@
+---
+layout : post
+title : "마크다운 연습"
+---
+
 # Heading 1
 ## Heading 2
 ### Heading 3
